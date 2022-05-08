@@ -1,0 +1,25 @@
+/* Style for Welcome */
+.welcome-style{
+    height: 93.5vh;
+    width: 100%;
+    background-image: url('https://cdn.pixabay.com/photo/2016/08/11/23/48/mountains-1587287_960_720.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    filter: brightness(100%);
+}
+.Home-title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.welcome-title{
+    color: rgb(240, 240, 240);
+    filter: brightness(100%);
+    font-size: 50px;
+}
+.welcome-btn{
+    background-color: rgb(194, 97, 33);
+    color:white;
+    border-radius: 10px;
+    font-size: 1.4rem;
+}
